@@ -95,7 +95,7 @@ def user_input(user_question):
 # Main function for Streamlit interface
 def main():
     st.set_page_config("Chat PDF")
-    st.header("Chat with PDF using Gemini💁")
+    st.header("Chat with PDF Crafted by SAILESH 💁")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
